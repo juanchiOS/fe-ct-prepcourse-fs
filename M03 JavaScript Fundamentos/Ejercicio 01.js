@@ -3,7 +3,6 @@
 
 // En los siguientes ejercicios deberás reemplazar el valor null
 // por el correspondiente.
-
 // Crea una variable de tipo string.
 const nuevoString = "null";
 
